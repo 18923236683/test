@@ -1,9 +1,11 @@
 <template>
   <div class="header">
-    <div class="header-left">
-      <span>{{this.city}}</span>
-      <span class="iconfont">&#xe6aa;</span>
-    </div>
+    <router-link to="/city">
+      <div class="header-left">
+        <span>{{this.city}}</span>
+        <span class="iconfont">&#xe6aa;</span>
+      </div>
+    </router-link>
     <div class="header-input">
       <span class="iconfont">&#xe632;</span>
       输入学校/活动主题
