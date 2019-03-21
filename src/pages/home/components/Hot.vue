@@ -36,6 +36,7 @@ export default {
 <style lang="stylus" scoped>
   .hot{
     margin-top: .2rem;
+    margin-bottom: 1.4rem;
   }
   .clearfix:after{
     content: '';

@@ -4,6 +4,7 @@
     <home-swiper :list="swiperList"></home-swiper>
     <home-icons :list="iconList"></home-icons>
     <home-hot :list="hotList"></home-hot>
+    <home-bottom></home-bottom>
   </div>
 </template>
 
@@ -12,10 +13,12 @@ import HomeHeader from './components/Header'
 import HomeSwiper from './components/Swiper'
 import HomeIcons from './components/Icons'
 import HomeHot from './components/Hot'
+import HomeBottom from './components/Bottom'
 import axios from 'axios'
 export default {
   name: 'Home',
   components: {
+    HomeBottom,
     HomeHeader,
     HomeSwiper,
     HomeIcons,
