@@ -2,14 +2,16 @@
   <div class="header">
     <router-link to="/city">
       <div class="header-left">
-        <span>{{this.city}}</span>
+        <span>{{this.$store.state.city}}</span>
         <span class="iconfont">&#xe6aa;</span>
       </div>
     </router-link>
-    <div class="header-input">
-      <span class="iconfont">&#xe632;</span>
-      输入学校/活动主题
-    </div>
+    <router-link to="/search" class="routerLink">
+      <div class="header-input">
+        <span class="iconfont">&#xe632;</span>
+        输入城市/学校/活动主题
+      </div>
+    </router-link>
     <div class="header-right">
       <span class="iconfont">&#xe64d;</span>
     </div>
@@ -18,10 +20,7 @@
 
 <script>
 export default {
-  name: 'HomeHeader',
-  props: {
-    city: String
-  }
+  name: 'HomeHeader'
 }
 </script>
 
@@ -33,7 +32,8 @@ export default {
     margin-top: .2rem;
   }
   .header-left{
-    width: 1.2rem;
+    min-width: 1rem;
+    padding: 0 .1rem;
     float: left;
     text-align: center;
     margin-left: .2rem;
@@ -44,16 +44,17 @@ export default {
     margin-left: .2rem;
     height: .64rem;
     line-height: .64rem;
-    background: #fff;
     border-radius: .5rem;
     color: #aaa;
     padding-left: .2rem;
-    background-color: #eee
+    background-color: #eee;
   }
   .header-right{
     width: 1rem;
     float: right;
     text-align: center;
   }
-
+  .routerLink{
+    flex: 1;
+  }
 </style>
