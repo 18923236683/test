@@ -5,21 +5,23 @@
       <div class="small-text">查看更多<span class="iconfont">&#xe62d;</span></div>
     </div>
     <div class="hot-list" v-for="item in list" :key="item.id">
-      <div class="list-item clearfix">
-        <div class="img-box">
-          <img class="hot-img" :src="item.imgUrl">
-        </div>
-        <div class="item-desc">
-          <div class="desc-inner">
-            <div class="desc-title clearfix">
-              <span class="title-left">{{item.title}}</span>
-              <span class="title-right iconfont">&#xe688;</span>
+      <router-link :to="'/detail/' + item.id">
+        <div class="list-item clearfix">
+          <div class="img-box">
+            <img class="hot-img" :src="item.imgUrl">
+          </div>
+          <div class="item-desc">
+            <div class="desc-inner">
+              <div class="desc-title clearfix">
+                <span class="title-left">{{item.title}}</span>
+                <span class="title-right iconfont">&#xe688;</span>
+              </div>
+              <div class="desc-text">{{item.desc}}</div>
+              <div class="desc-place"><span class="iconfont">&#xe637;</span>{{item.place}}</div>
             </div>
-            <div class="desc-text">{{item.desc}}</div>
-            <div class="desc-place"><span class="iconfont">&#xe637;</span>{{item.place}}</div>
           </div>
         </div>
-      </div>
+      </router-link>
     </div>
   </div>
 </template>
