@@ -23,9 +23,7 @@ export default {
   },
   data () {
     return {
-      showGallary: false,
-      imgs: ['http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg',
-        'http://img1.qunarzz.com/sight/p0/1702/9f/9faf267f81a1a024a3.img.jpg_r_800x800_b7c27ffc.jpg']
+      showGallary: false
     }
   },
   methods: {

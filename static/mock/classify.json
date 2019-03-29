@@ -1,0 +1,266 @@
+{
+  "ret": true,
+  "data": {
+    "kindArr": [{
+      "id": "0001",
+      "kindName": "全部",
+      "contentList": [{
+        "id": "0001",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0002",
+        "contentImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553598252465&di=652e7f6d63b5fc76268fc6be9dcc0d38&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20160328%2FImg442527963.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0003",
+        "contentImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553854507628&di=ca7cc08087dbc908ca3f43ced8afa736&imgtype=0&src=http%3A%2F%2Fwww.1626.com%2Fpublic%2Fupload%2Fzixun%2F2014%2F07%2F25%2F14062778814363.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0004",
+        "contentImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1554448966&di=abf9be65b366916c6330fab030468370&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.dongqiudi.com%2Fuploads9%2Fallimg%2F151015%2F233-151015235001T9.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0005",
+        "contentImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553854622877&di=bb293a9a06239bdaff84bc3e5b9d770b&imgtype=0&src=http%3A%2F%2Fnfile.365zhaosheng.com%2FUpload%2Fuserimg%2F20130315162442529.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0006",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0007",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0008",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      }]
+    },{
+      "id": "0002",
+      "kindName": "热门",
+      "contentList": [{
+        "id": "0001",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师热门文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0002",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0003",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0004",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0005",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0006",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0007",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0008",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      }]
+    },{
+      "id": "0003",
+      "kindName": "足球",
+      "contentList": [{
+        "id": "0001",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0002",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0003",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0004",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0005",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0006",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0007",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0008",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      }]
+    },{
+      "id": "0004",
+      "kindName": "篮球",
+      "contentList": [{
+        "id": "0001",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0002",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0003",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0004",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0005",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0006",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0007",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0008",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      }]
+    },{
+      "id": "0005",
+      "kindName": "羽毛球",
+      "contentList": [{
+        "id": "0001",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0002",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0003",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0004",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0005",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0006",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0007",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      },{
+        "id": "0008",
+        "contentImg": "http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg",
+        "contentName": "广师足球文化节",
+        "contentPlace": "广东技术师范大学",
+        "contentDesc": "朋友一生一起走，那些足球的日子不再有"
+      }]
+    }]
+  }
+}

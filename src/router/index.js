@@ -4,6 +4,7 @@ import Home from '@/pages/home/Home'
 import City from '@/pages/city/City'
 import Search from '@/pages/search/Search'
 import Detail from '@/pages/detail/Detail'
+import Classify from '@/pages/classify/Classify'
 
 Vue.use(Router)
 
@@ -25,6 +26,10 @@ export default new Router({
       path: '/detail/:id',
       name: 'Detail',
       component: Detail
+    }, {
+      path: '/classify',
+      name: 'Classify',
+      component: Classify
     }
   ],
   scrollBehavior (to, from, savedPosition) {
