@@ -6,13 +6,13 @@
           <span class="bottom-icon iconfont">&#xe62e;</span>
           <span class="bottom-title">首页</span>
         </router-link>
+        <router-link to="/classify" tag="li" class="item">
+          <span class="bottom-icon iconfont">&#xe630;</span>
+          <span class="bottom-title">分类</span>
+        </router-link>
         <li class="item">
-          <span class="bottom-icon iconfont active">&#xe630;</span>
-          <span class="bottom-title active">分类</span>
-        </li>
-        <li class="item">
-          <span class="bottom-icon iconfont">&#xe631;</span>
-          <span class="bottom-title">校圈</span>
+          <span class="bottom-icon iconfont active">&#xe631;</span>
+          <span class="bottom-title active">校圈</span>
         </li>
         <li class="item">
           <span class="bottom-icon iconfont">&#xe62f;</span>
@@ -25,13 +25,13 @@
 
 <script>
 export default {
-  name: 'ClassifyBottom'
+  name: 'FriendBottom'
 }
 </script>
 
 <style lang="stylus" scoped>
   .bottom{
-    width: 100%
+    width: 100%;
     position: fixed;
     bottom: 0;
     height: 1rem;

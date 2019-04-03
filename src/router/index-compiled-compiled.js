@@ -5,7 +5,6 @@ import City from '@/pages/city/City';
 import Search from '@/pages/search/Search';
 import Detail from '@/pages/detail/Detail';
 import Classify from '@/pages/classify/Classify';
-import Friend from '@/pages/friend/Friend';
 
 Vue.use(Router);
 
@@ -30,10 +29,6 @@ export default new Router({
     path: '/classify',
     name: 'Classify',
     component: Classify
-  }, {
-    path: '/friend',
-    name: 'Friend',
-    component: Friend
   }],
   scrollBehavior: function scrollBehavior(to, from, savedPosition) {
     return { x: 0, y: 0 };
@@ -41,3 +36,5 @@ export default new Router({
 });
 
 //# sourceMappingURL=index-compiled.js.map
+
+//# sourceMappingURL=index-compiled-compiled.js.map

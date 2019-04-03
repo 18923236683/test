@@ -35,7 +35,7 @@ export default {
     position: fixed;
     bottom: 0;
     height: 1rem;
-    background: #f5f5f5;
+    background: #fff;
     border-top:1px solid #eee;
   }
   .bottom-wrapper{
