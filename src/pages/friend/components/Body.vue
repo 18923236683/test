@@ -68,55 +68,11 @@
 <script>
 export default {
   name: 'FriendBody',
+  props: {
+    friendArray: Array
+  },
   data  () {
     return {
-      friendArray: [{
-        id: '0001',
-        profileImg: 'http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg',
-        author: '晴天',
-        ago: '一天前',
-        focused: false,
-        focus: '关注',
-        desc: '从出生的时候就开始飘着，童年的荡秋千，随记忆一直飘到现在，刮风这天，我试着握着你的手。',
-        img: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553598252465&di=652e7f6d63b5fc76268fc6be9dcc0d38&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20160328%2FImg442527963.jpg',
-        likeNumber: 5,
-        comentNumber: 2,
-        showLike: false,
-        comentArray: [{
-          id: '0001',
-          oneName: '',
-          twoName: '你的名字',
-          textContent: '这里的风景好美啊'
-        }, {
-          id: '0002',
-          oneName: '晴天',
-          twoName: '你的名字',
-          textContent: '欢迎你也过来看看啊'
-        }]
-      }, {
-        id: '0002',
-        profileImg: 'http://img1.qunarzz.com/sight/p0/1509/49/364e58131c66e458efedd4859abfaa67.water.jpg_r_800x800_52a1e8e4.jpg',
-        author: '晴天',
-        ago: '一天前',
-        focused: false,
-        focus: '关注',
-        desc: '从出生的时候就开始飘着，童年的荡秋千，随记忆一直飘到现在，刮风这天，我试着握着你的手。',
-        img: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553598252465&di=652e7f6d63b5fc76268fc6be9dcc0d38&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20160328%2FImg442527963.jpg',
-        likeNumber: 5,
-        comentNumber: 2,
-        showLike: false,
-        comentArray: [{
-          id: '0001',
-          oneName: '',
-          twoName: '你的名字',
-          textContent: '这里的风景好美啊'
-        }, {
-          id: '0002',
-          oneName: '晴天',
-          twoName: '你的名字',
-          textContent: '欢迎你也过来看看啊'
-        }]
-      }],
       inputBoxShow: false,
       inputValue: '',
       currentComentIndex: '',

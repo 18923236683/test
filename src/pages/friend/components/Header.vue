@@ -2,9 +2,7 @@
   <div class="header">
     <div class="list-wrapper">
       <ul class="list">
-        <li class="list-item">推荐</li>
-        <li class="list-item have-new">关注</li>
-        <li class="list-item current">好友</li>
+        <li class="list-item" v-for="(item,index) in kindArr" :key="item.id" @click="handleKindItemClick(index, item.id)" :class="{'active' : index==current}">{{item.kindName}}</li>
       </ul>
     </div>
   </div>
@@ -12,7 +10,21 @@
 
 <script>
 export default {
-  name: 'FriendHeader'
+  name: 'FriendHeader',
+  props: {
+    kindArr: Array
+  },
+  data () {
+    return {
+      current: 0
+    }
+  },
+  methods: {
+    handleKindItemClick (index, KindId) {
+      this.current = index
+      this.$emit('change', KindId)
+    }
+  }
 }
 </script>
 
@@ -34,7 +46,7 @@ export default {
     padding-right: .3rem;
     color: #666;
   }
-  .current{
+  .active{
     font-size: .5rem;
     line-height: 1.25rem;
     color: #333;
