@@ -10,14 +10,14 @@
           <span class="bottom-icon iconfont">&#xe630;</span>
           <span class="bottom-title">分类</span>
         </router-link>
-        <li class="item">
+        <router-link to="/friend" tag="li" class="item">
           <span class="bottom-icon iconfont">&#xe631;</span>
           <span class="bottom-title">校圈</span>
-        </li>
-        <li class="item">
+        </router-link>
+        <router-link to="/mine" tag="li" class="item">
           <span class="bottom-icon iconfont">&#xe62f;</span>
           <span class="bottom-title">我的</span>
-        </li>
+        </router-link>
       </ul>
     </div>
   </div>

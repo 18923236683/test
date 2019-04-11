@@ -6,6 +6,7 @@ import Search from '@/pages/search/Search';
 import Detail from '@/pages/detail/Detail';
 import Classify from '@/pages/classify/Classify';
 import Friend from '@/pages/friend/Friend';
+import Mine from '@/pages/mine/Mine';
 
 Vue.use(Router);
 
@@ -34,6 +35,10 @@ export default new Router({
     path: '/friend',
     name: 'Friend',
     component: Friend
+  }, {
+    path: '/mine',
+    name: 'Mine',
+    component: Mine
   }],
   scrollBehavior: function scrollBehavior(to, from, savedPosition) {
     return { x: 0, y: 0 };

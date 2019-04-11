@@ -14,10 +14,10 @@
           <span class="bottom-icon iconfont active">&#xe631;</span>
           <span class="bottom-title active">校圈</span>
         </li>
-        <li class="item">
+        <router-link to="/mine" tag="li" class="item">
           <span class="bottom-icon iconfont">&#xe62f;</span>
           <span class="bottom-title">我的</span>
-        </li>
+        </router-link>
       </ul>
     </div>
   </div>
